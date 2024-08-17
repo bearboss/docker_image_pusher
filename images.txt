@@ -1,1 +1,1 @@
-kubesphere/kube-apiserver:v1.23.10
+kubesphere/kube-controller-manager:v1.23.10
