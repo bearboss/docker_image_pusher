@@ -5,6 +5,9 @@ kubesphere/kube-scheduler:v1.23.10
 kubesphere/kube-proxy:v1.23.10
 coredns/coredns:1.8.6
 csiplugin/snapshot-controller:v4.0.0
+openebs/linux-utils:3.3.0
+
+
 
 kubesphere/ks-installer:v3.4.1
 mirrorgooglecontainers/defaultbackend-amd64:1.4
