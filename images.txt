@@ -21,6 +21,14 @@ mirrorgooglecontainers/defaultbackend-amd64:1.4
 kubesphere/prometheus-config-reloader:v0.55.1
 kubesphere/notification-manager-operator:v2.3.0
 kubesphere/prometheus-config-reloader:v0.55.1
+kubesphere/notification-tenant-sidecar:v3.2.0
+kubesphere/notification-manager:v2.3.0
+kubesphere/notification-tenant-sidecar:v3.2.0
+kubesphere/notification-manager:v2.3.0
+prom/prometheus:v2.39.1
+prom/alertmanager:v0.23.0
+
+
 
 
 kubesphere/ks-installer:v3.4.1
